@@ -41,5 +41,5 @@ You could set a cron Job to run the script automaticly.
 ```
 //Every saturday at 3am
 00	3	*	*	6	php -q /path/to/script/dtbBackup.php >> /path/to/script/backup.log
-```
+``
 
