@@ -22,6 +22,8 @@ var listen = new imapToImap.listen({
 	}
 });
 
+//The plugin will listen to new email on imap1Server.
+
 ```
 
 ## Listen to some events
