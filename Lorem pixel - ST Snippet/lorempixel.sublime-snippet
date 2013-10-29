@@ -1,0 +1,10 @@
+<!-- A Sublime Text snippet to create a link to Lorempixel with params -->
+<snippet>
+	<content><![CDATA[
+http://lorempixel.com/${1:500}/${2:500}/${3:nature}/${4: }
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>loremPixel</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>
